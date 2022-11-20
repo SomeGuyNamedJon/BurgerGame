@@ -1,0 +1,25 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:fd2e0844a59e6023507dfb8506f8473e:6ca0736650495f2c2580dc9436f8c0c9:82cffc6ffe222be079f1651a0921b37e$
+#
+:format=40300
+:texture=SS_BurgerItems.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Bacon;0;1536;512;512; 0.5;0.5; 0;0;0;0
+Bbun;512;1536;512;512; 0.5;0.5; 0;0;0;0
+Burger;1024;1536;512;512; 0.5;0.5; 0;0;0;0
+Cheese;1536;1536;512;512; 0.5;0.5; 0;0;0;0
+Egg;0;1024;512;512; 0.5;0.5; 0;0;0;0
+Lettuce;512;1024;512;512; 0.5;0.5; 0;0;0;0
+Onion;1024;1024;512;512; 0.5;0.5; 0;0;0;0
+Qegg;1536;1024;512;512; 0.5;0.5; 0;0;0;0
+Tbun;0;512;512;512; 0.5;0.5; 0;0;0;0
+Tomato;512;512;512;512; 0.5;0.5; 0;0;0;0
